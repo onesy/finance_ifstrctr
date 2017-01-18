@@ -1,0 +1,16 @@
+{
+    "name": "sunyuw/finance_ifstrctr",
+    "description": "P2P金融基础件",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sunyuw",
+            "email": "1587273742@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/database": "^5.3"
+    }
+}
