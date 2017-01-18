@@ -18,7 +18,7 @@
     ],
     "auto" : {
         "psr-4": {
-          "finance_ifstrctr\\": "src/"
+          "finance_ifstrctr\\": "./"
         }
    }
 }
