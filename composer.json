@@ -12,5 +12,13 @@
     "minimum-stability": "dev",
     "require": {
         "illuminate/database": "^5.3"
-    }
+    },
+    "files" : [
+        "src/Functoins/functions.php"
+    ],
+    "auto" : {
+        "psr-4": {
+          "finance_ifstrctr\\": "src/"
+        }
+   }
 }
