@@ -1,5 +1,5 @@
 <?php
-namespace finance_ifstrctr\Functions;
+namespace finance_ifstrctr\Model;
 
 class TestClass {
     
